@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace MyProgram
 {
     /*
-    Программа: Hello, world
+    Программа: Hello, world 123
     Эта программа, выводит в консоли "Hello world!"
      */
     class Program
